@@ -127,7 +127,7 @@
 > GitHub Activity Graph
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/atosinu/atosinu"><img alt="atosinu's activity graph" src="https://activity-graph.herokuapp.com/graph?username=atosinu&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/atosinu/atosinu"><img alt="SuperStar323's activity graph" src="https://activity-graph.herokuapp.com/graph?username=atosinu&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <br />
 
