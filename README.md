@@ -1,4 +1,4 @@
-<h1 align="center">Hello!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://vecnazmaga.netlify.app" target="_blank">SuperStar323</a></h1>
+<h1 align="center" style="color:red;">This is SuperStar323</h1>
 <br />
 <p style="display: flex;justify-content: center;">
 <img style="border-radius: 50%;height: auto; visibility: visible;" alt="" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/105542355?v=4" data-xblocker="passed">
