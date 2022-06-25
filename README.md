@@ -117,5 +117,5 @@
 <br />
 
 <p align="center">
-    <img alt="metrics" title="Github Metrics" src="https://github.com/atosinu/atosinu/blob/main/github-metrics.svg" width="100%" />
+    <img alt="metrics" title="Github Metrics" src="https://github.com/SuperStar323/SuperStar323/blob/main/github-metrics.svg" width="100%" />
 </p>
