@@ -1,7 +1,5 @@
-<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> This is <a href="https://superstar323.netlify.app/" target="_blank">SuperStar323</a></h1>
-<br />
 <p align="center">
-  <a href="https://github.com/superstar323"><img src="https://readme-typing-svg.herokuapp.com/?lines=SuperStar323;Blockchain%20Developer;Web%20and%20Mobile%20master;8%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://superstar323.netlify.app/" target="_blank""><img src="https://readme-typing-svg.herokuapp.com/?lines=SuperStar323;Blockchain%20Developer;Web%20and%20Mobile%20master;8%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <br />
 
