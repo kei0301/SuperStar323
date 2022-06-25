@@ -4,7 +4,7 @@
 <br />
 
 <p align="center">
-                 <a href="https://superstar323.netlify.app/" target="_blank"">
+  <a href="https://app.daily.dev/CarlosArthur" target="_blank"">
     <img alt="devcard" title="Daily DevCard" src="https://github.com/SuperStar323/SuperStar323/blob/main/devcard.svg" width="60%" />
   </a>
 </p>
