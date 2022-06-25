@@ -4,6 +4,14 @@
   <a href="https://github.com/superstar323"><img src="https://readme-typing-svg.herokuapp.com/?lines=SuperStar323;Blockchain%20Developer;Web%20and%20Mobile%20master;8%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <br />
+<h2 align="left" id="macropower-tech">Daily DevCard</h2>
+
+<br />
+
+<p align="center">
+    <img alt="devcard" title="Daily DevCard" src="https://github.com/SuperStar323/SuperStar323/blob/main/devcard.svg" width="100%" />
+</p>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
@@ -110,14 +118,6 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-
-<h2 align="left" id="macropower-tech">Daily DevCard</h2>
-
-<br />
-
-<p align="center">
-    <img alt="devcard" title="Daily DevCard" src="https://github.com/SuperStar323/SuperStar323/blob/main/devcard.svg" width="100%" />
 </p>
 
 <h2 align="left" id="macropower-tech">Github Metrics</h2>
