@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://app.daily.dev/CarlosArthur" target="_blank"">
-    <img alt="devcard" title="Daily DevCard" src="https://api.daily.dev/devcards/83e5e3242b8648ecaa524fac861c4e21.png?r=n9o" width="60%" />
+    <img alt="devcard" title="Daily DevCard" src="https://api.daily.dev/devcards/83e5e3242b8648ecaa524fac861c4e21.png?r=b49" width="60%" />
   </a>
 </p>
 
