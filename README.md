@@ -2,7 +2,6 @@
   <a href="https://superstar323.netlify.app/" target="_blank""><img src="https://readme-typing-svg.herokuapp.com/?lines=SuperStar323;Blockchain%20Developer;Web%20and%20Mobile%20master;8%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <br />
-## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
 <div>
 <a  align="left" href="https://app.daily.dev/CarlosArthur">
 <img align="left" src="https://api.daily.dev/devcards/83e5e3242b8648ecaa524fac861c4e21.png?r=6g1" width="300" alt="Josip Neretljak's Dev Card"/>
