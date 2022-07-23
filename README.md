@@ -4,7 +4,7 @@
 <br />
 <div>
 <a  align="left" href="https://app.daily.dev/CarlosArthur">
-<img align="left" src="https://api.daily.dev/devcards/83e5e3242b8648ecaa524fac861c4e21.png?r=6g1" width="300" alt="Josip Neretljak's Dev Card"/>
+<img align="left" src="https://api.daily.dev/devcards/83e5e3242b8648ecaa524fac861c4e21.png?r=jvd" width="300"/>
 </a>
 ### 𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘧𝘰𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴
   𝘐𝘵 𝘪𝘴 𝘱𝘰𝘴𝘴𝘪𝘣𝘭𝘦 𝘵𝘰 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯. 𝘊𝘰𝘮𝘱𝘢𝘵𝘪𝘣𝘭𝘦 𝘸𝘪𝘵𝘩 𝘦𝘢𝘤𝘩 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮.
