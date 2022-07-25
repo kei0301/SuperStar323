@@ -3,7 +3,12 @@
 </p>
 <br />
 <div>
-<p>
+
+<a  align="right" href="https://app.daily.dev/CarlosArthur">
+<img align="right" src="https://api.daily.dev/devcards/83e5e3242b8648ecaa524fac861c4e21.png?r=3m0" width="400"/>
+</a>
+
+                                                                                                              <p>
 Blockchain developer, specialized in custom cryptocurrency and blockchain development, having extensive experience in ICO, POS – Proof of Stake, blockchain website, web portal, & smart contracts application development.
 
 I am very proficient with the solidity programming language, Ethereum, token generation, digital currency exchange, proof of work (POW), and building innovative, highly customized, robust, feature-packed, and modular blockchain development solutions.
@@ -16,10 +21,7 @@ With the consummate evaluation of your blockchain development requirements and c
 
 Are you looking full time & dedicated blockchain developer to develop a user-friendly high-end functionality based ICO, cryptocurrency, or smart contracts web application? I will love to engage myself as a full-stack blockchain developer and assist you with innovative and creative strategies.
 </p>
-<a  align="right" href="https://app.daily.dev/CarlosArthur">
-<img align="right" src="https://api.daily.dev/devcards/83e5e3242b8648ecaa524fac861c4e21.png?r=3m0" width="400"/>
-</a>
-
+                                                                                                              
 </div>
 <br />
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
