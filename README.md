@@ -5,7 +5,7 @@
 <div>
 
 <a  align="right" href="https://app.daily.dev/CarlosArthur">
-<img align="right" src="https://api.daily.dev/devcards/83e5e3242b8648ecaa524fac861c4e21.png?r=3m0" width="400"/>
+<img align="right" src="https://api.daily.dev/devcards/83e5e3242b8648ecaa524fac861c4e21.png?r=2xy" width="400"/>
 </a>
 Blockchain developer, specialized in custom cryptocurrency and blockchain development, having extensive experience in ICO, POS – Proof of Stake, blockchain website, web portal, & smart contracts application development.
 
