@@ -3,7 +3,7 @@
 </p>
 <br />
 <div>
-<a align="right" href="https://app.daily.dev/CarlosArthur"><img src="https://api.daily.dev/devcards/83e5e3242b8648ecaa524fac861c4e21.png?r=3zf" width="400" alt="SuperStar323's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/CarlosArthur"><img align="right" src="https://api.daily.dev/devcards/83e5e3242b8648ecaa524fac861c4e21.png?r=3zf" width="400" alt="SuperStar323's Dev Card"/></a>
 
 Blockchain developer, specialized in custom cryptocurrency and blockchain development, having extensive experience in ICO, POS – Proof of Stake, blockchain website, web portal, & smart contracts application development.
 
